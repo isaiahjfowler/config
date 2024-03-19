@@ -32,7 +32,7 @@ exec --no-startup-id dex --autostart --environment i3
 exec xautolock -time 1 -locker "~/scripts/asciiquarium.sh" -detectsleep
 
 # Wallpaper
-exec --no-startup-id nitrogen --restore
+# exec --no-startup-id nitrogen --restore
 
 # The combination of xss-lock, nm-applet and pactl is a popular choice, so
 # they are included here as an example. Modify as you see fit.
